@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Venv
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite3
+
+# Env
+.env
+
+# Reports
+reports/
+backend/reports/
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Cache
+.pytest_cache/
+
+# Build
+dist/
+build/

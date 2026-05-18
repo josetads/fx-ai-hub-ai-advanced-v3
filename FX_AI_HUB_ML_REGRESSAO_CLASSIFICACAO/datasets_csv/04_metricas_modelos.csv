@@ -1,0 +1,4 @@
+﻿modelo,tipo,MAE,MAPE,RMSE,R2,uso_no_projeto
+Regressao Linear,Regressao,0.082,1.62,0.108,0.71,Baseline interpretável
+Random Forest,Regressao/Classificacao,0.049,0.96,0.067,0.86,Robustez e padrões não lineares
+Gradient Boosting,Regressao/Classificacao,0.037,0.72,0.052,0.91,Melhor precisão no teste
