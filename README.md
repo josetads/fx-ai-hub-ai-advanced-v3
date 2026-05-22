@@ -215,21 +215,14 @@ Análise → Recomendação → Relatório → ERP → Alertas
 
 # 🖥️ Demonstração no VS Code
 
-## 📸 Screenshot Recomendado
+## 📸 Screenshot Recomendado 
 
-Adicione uma imagem chamada:
+Back-end
+<img width="2559" height="1529" alt="image" src="https://github.com/user-attachments/assets/d5b72486-481c-4c89-b342-1204336765c9" />
 
-```text
-/docs/images/vscode_fx_ai_hub.png
-```
+Front-end
+<img width="2559" height="1529" alt="image" src="https://github.com/user-attachments/assets/46d3f30a-988f-49a7-b31c-e0811242213a" />
 
-Exemplo:
-
-```markdown
-![VS Code](docs/images/vscode_fx_ai_hub.png)
-```
-
----
 
 # 💻 Terminal Rodando o Sistema
 
@@ -242,6 +235,7 @@ INFO: Forecast Generated...
 INFO: Telegram Notification Sent...
 INFO: Enterprise Cycle Finished...
 ```
+<img width="1902" height="754" alt="image" src="https://github.com/user-attachments/assets/4e7e3415-7ee6-45d5-8bcb-5b381b365275" />
 
 ---
 
